@@ -12,6 +12,6 @@ public class first{
 	
 	System.out.print(a*b);
 	
-	Sys
+	// it will be helpfull for the new coders
 	}
 }	
