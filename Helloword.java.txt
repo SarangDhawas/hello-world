@@ -9,5 +9,9 @@ public class first{
 	int b=19;
 	
 	System.out.print(a+b);
+	
+	System.out.print(a*b);
+	
+	Sys
 	}
 }	
