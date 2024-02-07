@@ -4,6 +4,10 @@ public class first{
 	public static void main (String arg []){
 	
 	System.out.print("Hello Word");
-	// commit
+	
+	int a=10;
+	int b=19;
+	
+	System.out.print(a+b);
 	}
 }	
